@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/matheusesdev/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/matheusesdev/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/matheusesdev/js-developer-portfolio/main/data/imgs/css.png"
       },
     ],
     "softSkills": [
